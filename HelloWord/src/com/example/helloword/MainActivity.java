@@ -6,7 +6,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 /**
-* Hello Word
+* Hello Word 
+* Editing Eclipse
 **/
 
 public class MainActivity extends Activity {
